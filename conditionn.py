@@ -49,3 +49,6 @@ for i in range(n):
     else:
         print('please initialize a empty for {dt}'.format(dt))
 print(map_)
+
+a = 6
+b = 5
